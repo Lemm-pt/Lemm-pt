@@ -1,5 +1,15 @@
 <?php
 
+
+
+
+
+
+
+
+
+
+
 namespace Composer;
 
 use Composer\Semver\VersionParser;
@@ -20,20 +30,11 @@ private static $installed = array (
     array (
     ),
     'reference' => NULL,
-    'name' => 'wrt/fast-order',
+    'name' => 'sys4soft/phpstore',
   ),
   'versions' => 
   array (
-    'phpmailer/phpmailer' => 
-    array (
-      'pretty_version' => 'v6.6.4',
-      'version' => '6.6.4.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'a94fdebaea6bd17f51be0c2373ab80d3d681269b',
-    ),
-    'wrt/fast-order' => 
+    'sys4soft/phpstore' => 
     array (
       'pretty_version' => '1.0.0+no-version-set',
       'version' => '1.0.0.0',
