@@ -1,2 +1,0 @@
-# Esplanapp
-version 1
